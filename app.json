@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "HealthAppReactNative",
+    "slug": "HealthAppReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
